@@ -41,9 +41,12 @@ http://localhost:8081
 
 ## Author 👋👷 
 
-[Jlferrete](https://github.com/jlferrete)
+Made with ❤️ by [Jlferrete](https://github.com/jlferrete)
 
 <p align="center">
+  <a href="https://github.com/jlferrete" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="jlferrete" height="24px" width="24px" />
+  </a>
   <a href="https://jlferrete.com" target="blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/firefox.svg" alt="jlferrete" height="24px" width="24px" />
   </a>
@@ -57,7 +60,7 @@ http://localhost:8081
 
 Distributed under the ![GitHub](https://img.shields.io/github/license/jlferrete/spring-boot-angular-2fa-demo). See ``LICENSE`` for more information.
 
-(https://github.com/jlferrete/spring-boot-angular-2fa-demo)
+
 
 ## Contributing 💻
 
