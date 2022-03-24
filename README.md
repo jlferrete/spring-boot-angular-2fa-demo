@@ -1,4 +1,11 @@
-# Spring Boot 2 + Angular 10: User Registration and Login using JWT Authentication, OAuth2 Social Login with Facebook, Google, LinkedIn, and Github using Spring Security 5 and Two Factor Authentication (2FA)
+# Docker Pills
+> Spring Boot 2 + Angular 11: User Registration and Login using JWT Authentication, OAuth2 Social Login using Spring Security 5 and Two Factor Authentication (2FA)
+
+We are going to install in one command a development environment with: Spring Boot 2 + Angular 11 (User Registration and Login using JWT Authentication, OAuth2 Social Login using Spring Security 5) and Two Factor Authentication (2FA)
+
+Visit [Wiki](wiki) for more information.
+
+
 
 ## Additional info for the project 📋
 
@@ -13,9 +20,10 @@
 [Dockerize Angular with NGINX and Spring Boot with MySQL using Docker Compose](https://www.javachinna.com/angular-nginx-spring-boot-mysql-docker-compose/)
 
 ## Installation
+
 You can run the application with the following command in the project parent directory where the docker-compose file resides
 ```
-docker-compose up
+docker-compose up -d
 ```
 
 ## Run the Application 🚀
@@ -24,4 +32,5 @@ Once the DOCKER containers are deployed, you can access the application through 
 http://localhost:8081
 ```
 
-
+<!-- Markdown link & img dfn's -->
+[wiki]: https://github.com/jlferrete/yourproject/spring-boot-angular-2fa-demo
