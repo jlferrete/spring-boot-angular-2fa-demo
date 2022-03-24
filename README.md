@@ -3,7 +3,7 @@
 
 We are going to install in one command a development environment with: Spring Boot 2 + Angular 11 (User Registration and Login using JWT Authentication, OAuth2 Social Login using Spring Security 5) and Two Factor Authentication (2FA)
 
-Visit [Wiki](wiki) for more information.
+
 
 
 
