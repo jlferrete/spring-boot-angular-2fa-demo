@@ -11,6 +11,9 @@ COPY .mvn .mvn
 # Copy the pom.xml file
 COPY pom.xml .
 
+# clean up the file
+RUN sed -i 's/\r$//' mvnw
+
 # Build all the dependencies in preparation to go offline. 
 # This is a separate step so the dependencies will be cached unless 
 # the pom.xml file has changed.
