@@ -7,7 +7,7 @@ Visit [Wiki](https://github.com/jlferrete/spring-boot-angular-2fa-demo/wiki) for
 
 ## Additional info for the project 📋
 
-[Creating Backend - Spring REST API - Part 1](https://www.javachinna.com/spring-boot-angular-two-factor-authentication/)
+[Creating Backend - Spring REST API - Part 1](https://www.javachinna.com/spring-boot-angular-10-user-registration-oauth2-social-login-part-1/)
 
 [Creating Backend - Spring REST API - Part 2](https://www.javachinna.com/2020/10/23/spring-boot-angular-10-user-registration-oauth2-social-login-part-2/)
 
